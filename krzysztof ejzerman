@@ -4,7 +4,7 @@
 
 
 ## Tytuł błędu
-
+nie działanie kodu 
 
 ## Priorytet
 
@@ -16,9 +16,10 @@
 
 
 ## Kroki do reprodukcji
-
+po kliknieciu run program nie działa
 
 ## Oczekiwany i rzeczywisty wynik
-
+po kliknieciu run program powinien wyświetlić wygenerowane hasło które jest długie na 16 znaków
 
 ## Zrzut ekranu
+https://file.io/d2rHDFx8tGgF
